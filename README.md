@@ -17,6 +17,14 @@
 
 
 
+## Installation
+
+Install vitai with npm
+
+```bash
+  npm install vitai
+  npm run vitai
+```
 
 
 
