@@ -15,3 +15,35 @@ Aquí tienes una guía rápida:
 7. Abre una [_pull request_](https://github.com/midudev/la-velada-web-oficial/pulls)
 
 Por favor, consulta nuestra [guía de contribución](https://github.com/midudev/la-velada-web-oficial/blob/master/CONTRIBUTING.md) para saber cómo puedes empezar de la mejor manera y siguiendo [buenas prácticas](https://github.com/midudev/la-velada-web-oficial/blob/main/CONTRIBUTING.md#buenas-prácticas-).
+
+**¡Gracias a todos los colaboradores que han hecho posible este proyecto!**
+
+[![Contribuidores](https://contrib.rocks/image?repo=lucasangelino/vitai&max=500&columns=20)](https://github.com/lucasangelino/vitai/graphs/contributors)
+
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
+
+## 🛠️ Stack
+
+- [![Astro][astro-badge]][astro-url] - The web framework for content-driven websites.
+- [![Typescript][typescript-badge]][typescript-url] - JavaScript with syntax for types.
+- [![Tailwind CSS][tailwind-badge]][tailwind-url] - A utility-first CSS framework for rapidly building custom designs.
+- [![@midudev/tailwind-animations][animations-badge]][animations-url] - Easy peasy animations for your Tailwind project.
+
+<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
+
+[astro-url]: https://astro.build/
+[typescript-url]: https://www.typescriptlang.org/
+[tailwind-url]: https://tailwindcss.com/
+[animations-url]: https://tailwindcss-animations.vercel.app/
+[astro-badge]: https://img.shields.io/badge/Astro-fff?style=for-the-badge&logo=astro&logoColor=bd303a&color=352563
+[typescript-badge]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=blue
+[tailwind-badge]: https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
+[animations-badge]: https://img.shields.io/badge/@midudev/tailwind-animations-ff69b4?style=for-the-badge&logo=node.js&logoColor=white&color=blue
+[contributors-shield]: https://img.shields.io/github/contributors/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[contributors-url]: https://github.com/midudev/la-velada-web-oficial/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[forks-url]: https://github.com/midudev/la-velada-web-oficial/network/members
+[stars-shield]: https://img.shields.io/github/stars/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[stars-url]: https://github.com/midudev/la-velada-web-oficial/stargazers
+[issues-shield]: https://img.shields.io/github/issues/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[issues-url]: https://github.com/midudev/la-velada-web-oficial/issues
