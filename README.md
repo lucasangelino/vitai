@@ -1,3 +1,26 @@
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+![Hackaton](https://img.shields.io/badge/Midudev-Hackaton-8A2BE2)
+
+
+
+
+![vitai](https://github.com/user-attachments/assets/6d89eb68-d16f-4fe0-8e3c-7be1ea7716f3)
+## Authors
+
+- [@lucasangelino](https://www.github.com/lucasangelino)
+
+
+# Vitai
+
+### Vitai is a modern testing tool that helps you writing test. Combining the velocity of Vitest and the power of AI.
+
+
+
+
+
+
+
 ## Contribuir al proyecto
 
 Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. ¡Cualquier contribución que hagas es **muy apreciada**!
@@ -35,19 +58,15 @@ Made with [contrib.rocks](https://contrib.rocks).
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
-[astro-url]: https://astro.build/
-[typescript-url]: https://www.typescriptlang.org/
-[tailwind-url]: https://tailwindcss.com/
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 [animations-url]: https://tailwindcss-animations.vercel.app/
-[astro-badge]: https://img.shields.io/badge/Astro-fff?style=for-the-badge&logo=astro&logoColor=bd303a&color=352563
-[typescript-badge]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=blue
 [tailwind-badge]: https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
-[animations-badge]: https://img.shields.io/badge/@midudev/tailwind-animations-ff69b4?style=for-the-badge&logo=node.js&logoColor=white&color=blue
-[contributors-shield]: https://img.shields.io/github/contributors/midudev/la-velada-web-oficial.svg?style=for-the-badge
-[contributors-url]: https://github.com/midudev/la-velada-web-oficial/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/midudev/la-velada-web-oficial.svg?style=for-the-badge
-[forks-url]: https://github.com/midudev/la-velada-web-oficial/network/members
-[stars-shield]: https://img.shields.io/github/stars/midudev/la-velada-web-oficial.svg?style=for-the-badge
-[stars-url]: https://github.com/midudev/la-velada-web-oficial/stargazers
-[issues-shield]: https://img.shields.io/github/issues/midudev/la-velada-web-oficial.svg?style=for-the-badge
-[issues-url]: https://github.com/midudev/la-velada-web-oficial/issues
+[animations-badge]: https://img.shields.io/badge/@lucasangelino/tailwind-animations-ff69b4?style=for-the-badge&logo=node.js&logoColor=white&color=blue
+[contributors-shield]: https://img.shields.io/github/contributors/lucasangelino/vitai2.svg?style=for-the-badge
+[forks-url]: https://github.com/lucasangelino/vitai2/network/members
+[stars-shield]: https://img.shields.io/github/stars/lucasangelino/vitai2.svg?style=for-the-badge
+[stars-url]: https://github.com/lucasangelino/vitai2/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lucasangelino/vitai2.svg?style=for-the-badge
+[issues-url]: https://github.com/lucasangelino/vitai2/issues
