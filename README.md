@@ -18,7 +18,11 @@ Por favor, consulta nuestra [guía de contribución](https://github.com/midudev/
 
 **¡Gracias a todos los colaboradores que han hecho posible este proyecto!**
 
-[![Contribuidores](https://contrib.rocks/image?repo=lucasangelino/vitai&max=500&columns=20)](https://github.com/lucasangelino/vitai/graphs/contributors)
+<a href="https://github.com/lucasangelino/vitai2/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lucasangelino/vitai2" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
