@@ -39,6 +39,7 @@ Aquí tienes una guía rápida:
 
 Por favor, consulta nuestra [guía de contribución](https://github.com/midudev/la-velada-web-oficial/blob/master/CONTRIBUTING.md) para saber cómo puedes empezar de la mejor manera y siguiendo [buenas prácticas](https://github.com/midudev/la-velada-web-oficial/blob/main/CONTRIBUTING.md#buenas-prácticas-).
 
+## Contributors
 **¡Gracias a todos los colaboradores que han hecho posible este proyecto!**
 
 <a href="https://github.com/lucasangelino/vitai2/graphs/contributors">
